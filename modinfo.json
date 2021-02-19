@@ -1,0 +1,33 @@
+{
+  "context": "client",
+  "identifier": "com.pa.sonicblue22.newmaps",
+  "display_name": "SonicBlue22's Map Pack",
+  "description": "A brand new map pack! Contains maps designed to be interesting and suitable for all team setups.",
+  "author": "SonicBlue22",
+  "version": "1.0.0",
+  "build": "115521",
+  "date": "2021-19-2",
+  "signature": "none",
+  "forum": "https://forums.uberent.com/threads/sonicblue22s-map-pack.72538/",
+  "icon": "https://i.imgur.com/UAEzdZb.jpg",
+  "category": [
+    "maps"
+  ],
+  "searchable": [
+    "map",
+    "pack",
+    "maps",
+    "sonicblue",
+    "sonic",
+    "blue",
+    "sonicblue22"
+  ],
+  "dependencies": [
+    "com.pa.conundrum.cShareSystems"
+  ],
+  "load_planet": [
+    "coui://ui/mods/sonicblue22/maplist.js"
+  ],
+  "priority": 100,
+  "enabled": true
+}
